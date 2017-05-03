@@ -1,0 +1,350 @@
+Paragraph #1:
+   Unigram: a
+   Bigram:  ab
+   Trigram: abc
+
+Paragraph #2:
+   Unigram: z
+   Bigram:  go
+   Trigram: ali
+
+Paragraph #3:
+   Unigram: a
+   Bigram:  bc
+   Trigram: abc
+
+Paragraph #4:
+   Unigram: b
+   Bigram:  ab
+   Trigram: abc
+
+Paragraph #5:
+   Unigram: j
+   Bigram:  gl
+   Trigram: glk
+
+Paragraph #6:
+   Unigram: a
+   Bigram:  ab
+   Trigram: aba
+
+Paragraph #7:
+   Unigram: b
+   Bigram:  ab
+   Trigram: bab
+
+Paragraph #8:
+   Unigram: a
+   Bigram:  ab
+   Trigram: aba
+
+Paragraph #9:
+   Unigram: b
+   Bigram:  ab
+   Trigram: bab
+
+Paragraph #10:
+   Unigram: o
+   Bigram:  on
+   Trigram: est
+
+Paragraph #11:
+   Unigram: a
+   Bigram:  aa
+   Trigram: aaa
+
+Paragraph #12:
+   Unigram: x
+   Bigram:  xy
+   Trigram: yzx
+
+Paragraph #13:
+   Unigram: e
+   Bigram:  bl
+   Trigram: eyd
+
+Paragraph #14:
+   Unigram: h
+   Bigram:  dh
+   Trigram: eii
+
+Paragraph #15:
+   Unigram: n
+   Bigram:  ys
+   Trigram: anz
+
+Paragraph #16:
+   Unigram: b
+   Bigram:  hg
+   Trigram: hgr
+
+Paragraph #17:
+   Unigram: e
+   Bigram:  at
+   Trigram: atj
+
+Paragraph #18:
+   Unigram: q
+   Bigram:  be
+   Trigram: ags
+
+Paragraph #19:
+   Unigram: j
+   Bigram:  ax
+   Trigram: dou
+
+Paragraph #20:
+   Unigram: y
+   Bigram:  ds
+   Trigram: hfu
+
+Paragraph #21:
+   Unigram: p
+   Bigram:  ep
+   Trigram: jcn
+
+Paragraph #22:
+   Unigram: o
+   Bigram:  mm
+   Trigram: alb
+
+Paragraph #23:
+   Unigram: b
+   Bigram:  kp
+   Trigram: bor
+
+Paragraph #24:
+   Unigram: f
+   Bigram:  ue
+   Trigram: ash
+
+Paragraph #25:
+   Unigram: k
+   Bigram:  yk
+   Trigram: adm
+
+Paragraph #26:
+   Unigram: p
+   Bigram:  an
+   Trigram: apf
+
+Paragraph #27:
+   Unigram: o
+   Bigram:  bh
+   Trigram: cgw
+
+Paragraph #28:
+   Unigram: n
+   Bigram:  jy
+   Trigram: nhd
+
+Paragraph #29:
+   Unigram: k
+   Bigram:  ej
+   Trigram: afi
+
+Paragraph #30:
+   Unigram: b
+   Bigram:  bm
+   Trigram: bmd
+
+Paragraph #31:
+   Unigram: i
+   Bigram:  bl
+   Trigram: beu
+
+Paragraph #32:
+   Unigram: t
+   Bigram:  rb
+   Trigram: bri
+
+Paragraph #33:
+   Unigram: d
+   Bigram:  cf
+   Trigram: dja
+
+Paragraph #34:
+   Unigram: x
+   Bigram:  cw
+   Trigram: hvr
+
+Paragraph #35:
+   Unigram: e
+   Bigram:  nh
+   Trigram: nhq
+
+Paragraph #36:
+   Unigram: x
+   Bigram:  ak
+   Trigram: bfr
+
+Paragraph #37:
+   Unigram: x
+   Bigram:  it
+   Trigram: aai
+
+Paragraph #38:
+   Unigram: d
+   Bigram:  gd
+   Trigram: gdg
+
+Paragraph #39:
+   Unigram: p
+   Bigram:  aq
+   Trigram: ssu
+
+Paragraph #40:
+   Unigram: k
+   Bigram:  kk
+   Trigram: ajx
+
+Paragraph #41:
+   Unigram: q
+   Bigram:  rc
+   Trigram: adh
+
+Paragraph #42:
+   Unigram: s
+   Bigram:  qc
+   Trigram: aeo
+
+Paragraph #43:
+   Unigram: x
+   Bigram:  gz
+   Trigram: aah
+
+Paragraph #44:
+   Unigram: r
+   Bigram:  iu
+   Trigram: xks
+
+Paragraph #45:
+   Unigram: p
+   Bigram:  xl
+   Trigram: brx
+
+Paragraph #46:
+   Unigram: z
+   Bigram:  ez
+   Trigram: dek
+
+Paragraph #47:
+   Unigram: l
+   Bigram:  sa
+   Trigram: dkv
+
+Paragraph #48:
+   Unigram: d
+   Bigram:  uh
+   Trigram: ade
+
+Paragraph #49:
+   Unigram: d
+   Bigram:  dy
+   Trigram: ady
+
+Paragraph #50:
+   Unigram: b
+   Bigram:  gd
+   Trigram: aly
+
+Paragraph #51:
+   Unigram: j
+   Bigram:  cm
+   Trigram: cjv
+
+Paragraph #52:
+   Unigram: e
+   Bigram:  ke
+   Trigram: ltd
+
+Paragraph #53:
+   Unigram: p
+   Bigram:  pi
+   Trigram: awc
+
+Paragraph #54:
+   Unigram: w
+   Bigram:  ed
+   Trigram: eai
+
+Paragraph #55:
+   Unigram: a
+   Bigram:  iq
+   Trigram: aph
+
+Paragraph #56:
+   Unigram: h
+   Bigram:  ht
+   Trigram: agd
+
+Paragraph #57:
+   Unigram: p
+   Bigram:  cw
+   Trigram: egc
+
+Paragraph #58:
+   Unigram: j
+   Bigram:  qb
+   Trigram: ced
+
+Paragraph #59:
+   Unigram: i
+   Bigram:  id
+   Trigram: awi
+
+Paragraph #60:
+   Unigram: j
+   Bigram:  no
+   Trigram: aui
+
+Paragraph #61:
+   Unigram: f
+   Bigram:  ep
+   Trigram: cwz
+
+Paragraph #62:
+   Unigram: v
+   Bigram:  on
+   Trigram: atn
+
+Paragraph #63:
+   Unigram: z
+   Bigram:  go
+   Trigram: ali
+
+Paragraph #64:
+   Unigram: a
+   Bigram:  bc
+   Trigram: abc
+
+Paragraph #65:
+   Unigram: e
+   Bigram:  er
+   Trigram: mod
+
+Paragraph #66:
+   Unigram: o
+   Bigram:  he
+   Trigram: the
+
+Paragraph #67:
+   Unigram: o
+   Bigram:  ow
+   Trigram: bro
+
+Paragraph #68:
+   Unigram: a
+   Bigram:  aa
+   Trigram: aaa
+
+Paragraph #69:
+   Unigram: z
+   Bigram:  zz
+   Trigram: zzz
+
+Paragraph #70:
+   Unigram: b
+   Bigram:  bx
+   Trigram: bxr
+

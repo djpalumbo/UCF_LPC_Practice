@@ -1,0 +1,112 @@
+9
+3
+A B 5
+A C 3
+8
+A B 1
+A C 7
+B D 5
+B E 3
+B F 2
+C G 4
+C H 2
+2
+A B 14
+3
+A C 7
+A B 3
+3
+A B 1000
+B C 2000
+26
+A B 1
+B C 1
+C D 1
+D E 1
+E F 1
+F G 1
+G H 1
+H I 1
+I J 1
+J K 1
+K L 1
+L M 1
+M N 1
+N O 1
+O P 1
+P Q 1
+Q R 1
+R S 1
+S T 1
+T U 1
+U V 1
+V W 1
+W X 1
+X Y 1
+Y Z 1
+26
+A B 1
+A C 2
+A D 3
+A E 4
+A F 5
+A G 6
+A H 7
+A I 8
+A J 9
+A K 10
+A L 11
+A M 12
+A N 13
+A O 14
+A P 15
+A Q 16
+A R 17
+A S 18
+A T 19
+A U 20
+A V 21
+A W 22
+A X 23
+A Y 24
+A Z 25
+14
+A G 7
+G E 90
+E F 111
+E I 2
+G H 14
+H K 67
+H L 34
+J N 999
+J M 1001
+D J 97
+D C 1
+D B 8
+A D 8
+26
+T B 463
+T Y 953
+I Z 165
+I P 252
+E N 713
+E S 719
+E X 309
+W G 640
+W T 586
+F V 350
+L C 761
+L Q 87
+D K 148
+R U 608
+M I 652
+M E 412
+O W 134
+O F 958
+O L 591
+H D 478
+H R 573
+J M 386
+A O 913
+A H 560
+A J 647

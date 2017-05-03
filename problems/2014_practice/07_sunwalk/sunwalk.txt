@@ -1,0 +1,10 @@
+Sun Walk Test Cases
+-------------------
+Cases 1 and 2: Sample
+Case 3: Three linked circles and paths on the periphery.
+Case 4: Circles in the four corners should not affect middle paths.
+Case 5: One circle start from perimeter and go to an opposite point outside the circle.
+Case 6: No obstacle case.
+Cases 7 and 8: Randomly generated, max # of shade spots.
+Case 9: Three circles, going from one to the other with the third in between.
+Case 10: concentric circles in the middle, different paths.

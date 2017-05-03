@@ -1,0 +1,233 @@
+6
+4
+Green Bay
+Hattiesburg
+New York
+Cleveland, Ohio
+7
+7/23 5:00 PM: Brett leaves Hattiesburg in private plane.
+7/23 5:10 PM: Brett eats breakfast omelet on plane.
+7/23 5:20 PM: Did I mention Brett is leaving Hattiesburg?
+7/23 5:30 PM: Brett falls asleep on plane.
+7/23 7:45 PM: Brett lands in Green Bay to waiting fans.
+7/23 8:15 PM: Brett watches Packers practice.
+7/23 8:20 PM: Deanna is watching practice as well.
+2
+Cleveland, Ohio
+New York
+5
+7/25 10:00 AM: Brett arrives in New York.
+7/25 11:00 AM: Brett does press conference in New York.
+7/25 1:25 PM: Brett flies to Cleveland, Ohio.
+7/25 4:45 PM: Brett does press conference in Cleveland, Ohio.
+7/25 6:00 PM: Brett walks onto field in Cleveland, Ohio.
+12
+city 1
+city 2
+city 3
+city 4
+this is a city also
+can you say this is a city
+i am aiming for 30 characters,
+letters digits commas spaces
+abcde 12345    ,,,,,
+new york, ny
+orlando, fl
+Orlando, FL
+16
+8/22 10:00 AM: Brett arrives in i am aiming for 30 characters, to say hi to everyone.
+8/22 11:00 AM: This case sucks, abcde 12345 ,,,,, because there's no city in it.
+8/22 12:00 PM: What you need is the last three spaces abcde 12345    ,,,,,    now a match.
+8/23  2:15 PM: Brett now goes to New York, NY. Sorry if you did a case insensitive match.
+8/23  2:16 PM: Okay, now I'll let him go to new york, ny. Go Jets!!!
+8/24 10:34 AM: Brett eats a hot dog. He really likes the hot dog vendors in new york, ny.
+8/25 11:32 AM: I could make this data for hours in orlando, Fl.
+8/25 11:33 AM: Or is it orlando,fl...hmmm...
+8/25 11:34 AM: I think I finally got it, it's orlando, fl.
+8/25 11:35 AM: Now I am confused, did I say, Orlando, fl or Orlando, Fl.
+8/25 11:36 AM: Neither of those counted, ha ha! But Orlando, FL does!
+8/26 11:11 AM: This will suck if you're tokenizing: blahblahthis is a city also.
+8/26 11:13 AM: Let's not forget about city1 or city2 or city3.
+8/26 11:15 AM: But it looks like we did =)
+8/26 11:20 AM: now, I will remember them   they way they should be city 3,city2,city1.
+8/26 11:45 AM: so is this a switch city 2? why yes, it is!
+3
+city   , 1, mississippi
+City  , 2,,,ohi  o
+no leading space, es 99
+7
+8/19 1:00 AM: Brett is in City  , 2,,,ohi  over the river.
+8/22 12:35 PM: Brett is still in City  , 2,,,ohi  over the river.
+8/23 3:00 PM: He really doesn't want to move because he's lazy.
+8/24 4:00 PM: But what aboutno leading space, es 99,000,000.
+8/24 4:30PM: Now we are in city   , 1, mississippissississississi ha ha!
+8/24 5:00PM: Have you considered no leading space, es 9,9 yet?
+8/24 5:30PM: Maybe I screwed that up. is it no leading space, es 99???
+5
+a                            a
+a a
+a  a
+a   a
+a    a
+6
+7/23 2:30PM: Brett is in a a.
+7/24 2:45PM: Or is ita a?
+7/25 2:50PM: No, I think it isa  abercrombie and fitch.
+7/26 3:45PM: Will he ever go to a a        a         a again?
+7/27 1:00PM: Nope, I don't think so, but a                            aisapossibility.
+7/27 3:00PM: No need for a city to be here =)
+50
+aa
+ab
+ac
+ad
+ae
+af
+ag
+ah
+ai
+aj
+ak
+al
+am
+an
+ao
+ap
+aq
+ar
+as
+at
+au
+av
+aw
+ax
+ay
+ba
+bb
+bc
+bd
+be
+bf
+bg
+bh
+bi
+bj
+bk
+bl
+bm
+bn
+bo
+bp
+bq
+br
+bs
+bt
+bu
+bv
+bw
+bx
+by
+100
+8/30 5:00AM: I AM IN A CITY WHOSE NAME IS af.
+8/30 5:01  AM: MORE CAPS SO I DON'T BUT A CITY IN AA AB AC AD AE Af Ag bG
+8/30 5:02 AM:     WILL THIS BE CONSIDERED A CITY SWITCH? bq.
+8/30 5:03 AM:Sureitwillandthislineistoo
+8/30 5:04 AM:butsowillthisline=)
+8/30 5:05AM:NOWBACKTOCAPITALSALLCAPITALS   ,,, ,,, B  b a b a b c d r cb...
+aa
+ab
+ac
+ad
+ae
+af
+ag
+ah
+ai
+aj
+ak
+al
+am
+an
+ao
+ap
+aq
+ar
+as
+at
+au
+av
+aw
+ax
+ay
+ba
+bb
+bc
+bd
+be
+bf
+bg
+bh
+bi
+bj
+bk
+bl
+bm
+bn
+bo
+bp
+bq
+br
+bs
+bt
+bu
+bv
+bw
+bx
+by
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+now i have to come up with 18 more lines.
+BETTER DO IT IN CAPS TO BE SAVE
+OR 234897580923762-387&%^$%&$*^)*^_*(&_(*&_(*^)%^$^*$&
+what sort of errors will people heve now
+CAN YOU SEE WHY I CHANGED THE SPELLING OF HAVE???
+IT'S TOO BAD THE CONTEST HAS ALMOST STARTED
+I WISH I COULD MAKE MORE DATA FOR THIS PROBLEM, BECAUSE i AM SURE I AM MISSING CASES
+but I think I heve come up with some good ones =)
+HOPE WE GET AN ARRAY OUT OF BOUNDS WHEN THE CITY IS LONGER THAN THE LOG ENTRY
+BUT REALLY THIS PROBLEM IS FAIRLY EASY
+BY THE WAY I HOPE UCF KICKS USF'S A$%$&%&&!!!
+SEVEN MORE LINES TO GO WOOHOO!!!
+TOO BAD i NEVER REALLY GOT TO LOOK UP BRETT'S SAGA AND PUT IT IN THE TEST DATA.
+sPEAKING OF WHICH, I NEED TO TAKE A LOOK AT MY FANTASY TEAMS.
+FOUR MORE LINES! fOUR MORE YEARS!!!
+ACTUALLY I WANT EIGHT YEARS OF OBAMA
+WHO SAID PROGRAMMING TEAM COULDN'T GET POLITICAL
+AND LAST BUT NOT LEAST, HERE IS FOR getting by
+
+
+ 

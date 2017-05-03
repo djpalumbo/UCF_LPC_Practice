@@ -1,0 +1,10 @@
+Pac-Man Data Description
+------------------------
+Cases 1 and 2 were from the specification.
+Case 3 tests the minimal case.
+Case 4 is the first test that is large enough to thwart brute force.
+Case 5 is like case 4, but has "choices" to make, so to speak.
+Cases 6 and 7 are the minimal # of column cases, with different "choices" of path.
+Cases 8 through 10 are randomly generated.
+Case 11 is the max case.
+Case 12 is a case with 1 row but more than 2 columns.

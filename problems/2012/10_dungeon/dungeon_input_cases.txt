@@ -1,0 +1,41 @@
+Test Cases
+----------
+
+1-3: Sample Input
+
+4: A line graph which is already fully numbered (possible)
+
+5: The same graph as previous, but no numbers provided (possible)
+
+6: A fully connected graph with 3 nodes numbered (possible, just use other 2 numbers)
+
+7: Same graph as previous, but only 2 nodes numbered (not possible)
+
+8-11: A cycle with 4 nodes, 1 of which is numbered (possible)
+
+12-13: A cycle with 5 nodes, 1 of which is numbered (the second node from either side of A) (possible)
+
+14: A cycle of length 25, nothing numbered (not possible)
+
+15: A cycle of length 26, nothing numbered (possible)
+
+16: A line graph with a triangle at the beginning (not possible, might break backtracking)
+
+17: A line graph with a triangle at the end (not possible, might break backtracking)
+
+18: A binary tree using the nodes in order (possible), like this:
+             A
+       B            C 
+   D      E      F      G
+ H   I  J   K  L   M  N   O
+P Q R ST U V WX Y Z
+
+19: A graph forcing processing of subgraph isolated by numbered nodes (not possible)
+
+20: Same as previous but subgraph possible to number this time.
+
+21-40: Random graphs, all possible, increasing in size, nothing initially numbered.
+
+41-60: Random graphs, all impossible, increasing in size, nothing initially numbered.
+
+61-100: Random graphs, optionally some dungeons already numbered, increasing in size (could be possible or not)

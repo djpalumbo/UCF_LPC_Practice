@@ -1,0 +1,176 @@
+Input value: 2
+2
+
+Input value: 3
+4
+
+Input value: 4
+4
+
+Input value: 5
+8
+
+Input value: 6
+8
+
+Input value: 7
+8
+
+Input value: 8
+8
+
+Input value: 9
+16
+
+Input value: 10
+16
+
+Input value: 20
+32
+
+Input value: 30
+32
+
+Input value: 40
+64
+
+Input value: 50
+64
+
+Input value: 60
+64
+
+Input value: 70
+128
+
+Input value: 80
+128
+
+Input value: 90
+128
+
+Input value: 100
+128
+
+Input value: 200
+256
+
+Input value: 300
+512
+
+Input value: 400
+512
+
+Input value: 500
+512
+
+Input value: 600
+1024
+
+Input value: 700
+1024
+
+Input value: 800
+1024
+
+Input value: 900
+1024
+
+Input value: 1000
+1024
+
+Input value: 2000
+2048
+
+Input value: 3000
+4096
+
+Input value: 4000
+4096
+
+Input value: 5000
+8192
+
+Input value: 6000
+8192
+
+Input value: 7000
+8192
+
+Input value: 8000
+8192
+
+Input value: 9000
+16384
+
+Input value: 10000
+16384
+
+Input value: 20000
+32768
+
+Input value: 30000
+32768
+
+Input value: 40000
+65536
+
+Input value: 50000
+65536
+
+Input value: 60000
+65536
+
+Input value: 70000
+131072
+
+Input value: 80000
+131072
+
+Input value: 90000
+131072
+
+Input value: 100000
+131072
+
+Input value: 16
+16
+
+Input value: 32
+32
+
+Input value: 64
+64
+
+Input value: 128
+128
+
+Input value: 256
+256
+
+Input value: 512
+512
+
+Input value: 1024
+1024
+
+Input value: 2048
+2048
+
+Input value: 4096
+4096
+
+Input value: 8192
+8192
+
+Input value: 16384
+16384
+
+Input value: 32768
+32768
+
+Input value: 65536
+65536
+
+Input value: 99999
+131072

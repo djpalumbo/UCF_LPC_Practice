@@ -1,0 +1,464 @@
+Gas Station #1:
+   Input:  2-9 285 -99
+   Output: 209 285 299
+
+Gas Station #2:
+   Input:  -50 -99 -99
+   Output: 250 299 399
+
+Gas Station #3:
+   Input:  211 222 333
+   Output: 211 222 333
+
+Gas Station #4:
+   Input:  222 333 444
+   Output: 222 333 444
+
+Gas Station #5:
+   Input:  2-2 33- -44
+   Output: 202 330 344
+
+Gas Station #6:
+   Input:  -12 -12 -11
+   Output: 212 312 411
+
+Gas Station #7:
+   Input:  -12 -13 -11
+   Output: 212 213 311
+
+Gas Station #8:
+   Input:  -23 2-3 23-
+   Output: 223 233 234
+
+Gas Station #9:
+   Input:  30- -00 -00
+   Output: 300 400 500
+
+Gas Station #10:
+   Input:  398 39- 4-9
+   Output: 398 399 409
+
+Gas Station #11:
+   Input:  49- 49- 50-
+   Output: 490 491 500
+
+Gas Station #12:
+   Input:  20- 20- 20-
+   Output: 200 201 202
+
+Gas Station #13:
+   Input:  -00 -01 -02
+   Output: 200 201 202
+
+Gas Station #14:
+   Input:  -00 -01 302
+   Output: 200 201 302
+
+Gas Station #15:
+   Input:  498 49- 50-
+   Output: 498 499 500
+
+Gas Station #16:
+   Input:  498 4-9 -00
+   Output: 498 499 500
+
+Gas Station #17:
+   Input:  257 323 3-8
+   Output: 257 323 328
+
+Gas Station #18:
+   Input:  29- 298 36-
+   Output: 290 298 360
+
+Gas Station #19:
+   Input:  4-5 42- 5-0
+   Output: 405 420 500
+
+Gas Station #20:
+   Input:  -89 294 350
+   Output: 289 294 350
+
+Gas Station #21:
+   Input:  -11 272 500
+   Output: 211 272 500
+
+Gas Station #22:
+   Input:  -46 300 -41
+   Output: 246 300 341
+
+Gas Station #23:
+   Input:  466 469 488
+   Output: 466 469 488
+
+Gas Station #24:
+   Input:  32- 36- 499
+   Output: 320 360 499
+
+Gas Station #25:
+   Input:  342 356 -55
+   Output: 342 356 455
+
+Gas Station #26:
+   Input:  26- 28- 3-4
+   Output: 260 280 304
+
+Gas Station #27:
+   Input:  -33 292 321
+   Output: 233 292 321
+
+Gas Station #28:
+   Input:  -44 252 47-
+   Output: 244 252 470
+
+Gas Station #29:
+   Input:  3-5 -10 -61
+   Output: 305 310 361
+
+Gas Station #30:
+   Input:  308 34- 393
+   Output: 308 340 393
+
+Gas Station #31:
+   Input:  -74 365 4-8
+   Output: 274 365 408
+
+Gas Station #32:
+   Input:  -07 2-5 36-
+   Output: 207 215 360
+
+Gas Station #33:
+   Input:  -48 258 -59
+   Output: 248 258 259
+
+Gas Station #34:
+   Input:  3-4 3-0 -94
+   Output: 304 310 394
+
+Gas Station #35:
+   Input:  3-6 -02 466
+   Output: 306 402 466
+
+Gas Station #36:
+   Input:  2-3 370 499
+   Output: 203 370 499
+
+Gas Station #37:
+   Input:  2-6 3-2 45-
+   Output: 206 302 450
+
+Gas Station #38:
+   Input:  236 -87 4-1
+   Output: 236 287 401
+
+Gas Station #39:
+   Input:  289 294 -38
+   Output: 289 294 338
+
+Gas Station #40:
+   Input:  326 417 -92
+   Output: 326 417 492
+
+Gas Station #41:
+   Input:  -37 338 38-
+   Output: 237 338 380
+
+Gas Station #42:
+   Input:  3-9 446 4-8
+   Output: 309 446 448
+
+Gas Station #43:
+   Input:  3-0 32- 42-
+   Output: 300 320 420
+
+Gas Station #44:
+   Input:  403 45- 4-9
+   Output: 403 450 459
+
+Gas Station #45:
+   Input:  256 32- 375
+   Output: 256 320 375
+
+Gas Station #46:
+   Input:  -67 3-5 -82
+   Output: 267 305 382
+
+Gas Station #47:
+   Input:  228 2-3 4-6
+   Output: 228 233 406
+
+Gas Station #48:
+   Input:  -49 364 38-
+   Output: 249 364 380
+
+Gas Station #49:
+   Input:  4-7 4-7 4-8
+   Output: 407 417 418
+
+Gas Station #50:
+   Input:  20- 34- 4-7
+   Output: 200 340 407
+
+Gas Station #51:
+   Input:  254 348 351
+   Output: 254 348 351
+
+Gas Station #52:
+   Input:  -15 34- 37-
+   Output: 215 340 370
+
+Gas Station #53:
+   Input:  237 -86 31-
+   Output: 237 286 310
+
+Gas Station #54:
+   Input:  -13 302 453
+   Output: 213 302 453
+
+Gas Station #55:
+   Input:  266 3-7 4-3
+   Output: 266 307 403
+
+Gas Station #56:
+   Input:  -91 490 4-8
+   Output: 291 490 498
+
+Gas Station #57:
+   Input:  -93 342 4-4
+   Output: 293 342 404
+
+Gas Station #58:
+   Input:  29- 39- 4-3
+   Output: 290 390 403
+
+Gas Station #59:
+   Input:  247 33- 477
+   Output: 247 330 477
+
+Gas Station #60:
+   Input:  -26 3-0 4-9
+   Output: 226 300 409
+
+Gas Station #61:
+   Input:  -54 371 4-1
+   Output: 254 371 401
+
+Gas Station #62:
+   Input:  3-7 3-7 4-0
+   Output: 307 317 400
+
+Gas Station #63:
+   Input:  -44 2-1 -41
+   Output: 244 251 341
+
+Gas Station #64:
+   Input:  2-8 38- 4-7
+   Output: 208 380 407
+
+Gas Station #65:
+   Input:  27- -36 4-3
+   Output: 270 336 403
+
+Gas Station #66:
+   Input:  25- 359 452
+   Output: 250 359 452
+
+Gas Station #67:
+   Input:  23- 339 -78
+   Output: 230 339 378
+
+Gas Station #68:
+   Input:  36- -48 4-0
+   Output: 360 448 450
+
+Gas Station #69:
+   Input:  30- -27 4-3
+   Output: 300 327 403
+
+Gas Station #70:
+   Input:  -01 3-9 430
+   Output: 201 309 430
+
+Gas Station #71:
+   Input:  280 296 4-0
+   Output: 280 296 400
+
+Gas Station #72:
+   Input:  2-5 -71 47-
+   Output: 205 271 470
+
+Gas Station #73:
+   Input:  21- 3-8 33-
+   Output: 210 308 330
+
+Gas Station #74:
+   Input:  2-0 4-9 -59
+   Output: 200 409 459
+
+Gas Station #75:
+   Input:  -34 -14 4-6
+   Output: 234 314 406
+
+Gas Station #76:
+   Input:  -11 -60 450
+   Output: 211 260 450
+
+Gas Station #77:
+   Input:  23- 34- 468
+   Output: 230 340 468
+
+Gas Station #78:
+   Input:  3-6 415 42-
+   Output: 306 415 420
+
+Gas Station #79:
+   Input:  28- 416 425
+   Output: 280 416 425
+
+Gas Station #80:
+   Input:  289 -41 45-
+   Output: 289 341 450
+
+Gas Station #81:
+   Input:  2-8 340 40-
+   Output: 208 340 400
+
+Gas Station #82:
+   Input:  -75 3-1 40-
+   Output: 275 301 400
+
+Gas Station #83:
+   Input:  3-3 -98 42-
+   Output: 303 398 420
+
+Gas Station #84:
+   Input:  -03 -49 380
+   Output: 203 249 380
+
+Gas Station #85:
+   Input:  32- -47 -19
+   Output: 320 347 419
+
+Gas Station #86:
+   Input:  3-2 -56 462
+   Output: 302 356 462
+
+Gas Station #87:
+   Input:  2-6 343 3-4
+   Output: 206 343 344
+
+Gas Station #88:
+   Input:  -72 38- 453
+   Output: 272 380 453
+
+Gas Station #89:
+   Input:  -11 2-9 38-
+   Output: 211 219 380
+
+Gas Station #90:
+   Input:  27- -38 4-4
+   Output: 270 338 404
+
+Gas Station #91:
+   Input:  -27 292 3-9
+   Output: 227 292 309
+
+Gas Station #92:
+   Input:  24- 2-2 -19
+   Output: 240 242 319
+
+Gas Station #93:
+   Input:  2-3 41- 4-3
+   Output: 203 410 413
+
+Gas Station #94:
+   Input:  -92 33- 3-5
+   Output: 292 330 335
+
+Gas Station #95:
+   Input:  294 411 4-5
+   Output: 294 411 415
+
+Gas Station #96:
+   Input:  -13 36- 42-
+   Output: 213 360 420
+
+Gas Station #97:
+   Input:  2-9 344 425
+   Output: 209 344 425
+
+Gas Station #98:
+   Input:  217 24- 28-
+   Output: 217 240 280
+
+Gas Station #99:
+   Input:  248 2-0 4-2
+   Output: 248 250 402
+
+Gas Station #100:
+   Input:  -43 320 401
+   Output: 243 320 401
+
+Gas Station #101:
+   Input:  3-4 367 -94
+   Output: 304 367 394
+
+Gas Station #102:
+   Input:  -18 366 4-8
+   Output: 218 366 408
+
+Gas Station #103:
+   Input:  29- 35- 46-
+   Output: 290 350 460
+
+Gas Station #104:
+   Input:  224 3-0 4-8
+   Output: 224 300 408
+
+Gas Station #105:
+   Input:  4-8 4-7 488
+   Output: 408 417 488
+
+Gas Station #106:
+   Input:  248 3-2 -89
+   Output: 248 302 389
+
+Gas Station #107:
+   Input:  -30 -49 4-8
+   Output: 230 249 408
+
+Gas Station #108:
+   Input:  40- 4-0 476
+   Output: 400 410 476
+
+Gas Station #109:
+   Input:  -83 3-4 49-
+   Output: 283 304 490
+
+Gas Station #110:
+   Input:  21- -73 4-8
+   Output: 210 273 408
+
+Gas Station #111:
+   Input:  26- -83 460
+   Output: 260 283 460
+
+Gas Station #112:
+   Input:  228 416 462
+   Output: 228 416 462
+
+Gas Station #113:
+   Input:  332 3-2 45-
+   Output: 332 342 450
+
+Gas Station #114:
+   Input:  -11 -74 -72
+   Output: 211 274 372
+
+Gas Station #115:
+   Input:  2-0 323 43-
+   Output: 200 323 430
+
+Gas Station #116:
+   Input:  365 41- 44-
+   Output: 365 410 440
+

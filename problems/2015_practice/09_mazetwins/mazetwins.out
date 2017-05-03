@@ -1,0 +1,137 @@
+Maze #1:
+   Mack move east
+   Mack move east
+   Mack move south
+   Zack move east
+   Zack move east
+   Zack move north
+   Zack move north
+   Total number of moves: 7
+
+Maze #2:
+   Mack move north
+   Zack move south
+   Zack move west
+   Total number of moves: 3
+
+Maze #3:
+   Mack move south
+   Mack move south
+   Mack move east
+   Mack move east
+   Mack move east
+   Mack move north
+   Total number of moves: 6
+
+Maze #4:
+   Zack move north
+   Zack move east
+   Zack move east
+   Total number of moves: 3
+
+Maze #5:
+   Zack move north
+   Zack move north
+   Zack move north
+   Total number of moves: 3
+
+Maze #6:
+   Mack move south
+   Mack move south
+   Mack move south
+   Mack move south
+   Mack move south
+   Mack move south
+   Mack move south
+   Mack move east
+   Mack move east
+   Mack move east
+   Mack move east
+   Mack move east
+   Mack move east
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move north
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move west
+   Zack move south
+   Zack move west
+   Zack move west
+   Zack move west
+   Zack move west
+   Zack move west
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move north
+   Zack move east
+   Zack move east
+   Zack move east
+   Zack move east
+   Zack move east
+   Zack move east
+   Total number of moves: 67
+
+Maze #7:
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Mack move west
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Zack move south
+   Total number of moves: 27
+

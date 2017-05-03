@@ -1,0 +1,91 @@
+
+import java.util.*;
+import java.math.*;
+
+public class passing
+{
+   public static void main(String[] args)
+   {
+      new passing(new Scanner(System.in));
+   }
+
+   public passing(Scanner in)
+   {
+      int T = in.nextInt();
+      while (T-->0)
+      {
+         int N = in.nextInt();
+
+         int[] probA = new int[N];
+         int[] probB = new int[N];
+         for (int i=0; i<N; i++)
+            probA[i] = (int)(100.0 * in.nextDouble());
+         for (int i=0; i<N; i++)
+            probB[i] = (int)(100.0 * in.nextDouble());
+     
+         int[][] adj = new int[N][N];
+         for (int i=0; i<N; i++)
+            for (int j=0; j<N; j++)
+               adj[i][j] = (int)(100.0 * in.nextDouble());
+
+         MaxFlow mf = new MaxFlow(N);
+
+         // Just in case a[i][i] isn't always 0
+         int res = 0;
+         for (int i=0; i<N; i++)
+         {
+            probA[i] += adj[i][i];
+            probB[i] += adj[i][i];
+            adj[i][i] = 0;
+         
+            int sum = 0;
+            for (int j=0; j<N; j++)
+               sum += adj[i][j];
+            mf.add(mf.s, i, probA[i]);
+            mf.add(i, mf.t, probB[i]);
+            res += sum + probA[i] + probB[i];
+         }
+
+         for (int i=0; i<N; i++) for (int j=0; j<N; j++) if (i != j)
+            mf.add(i, j, adj[i][j] + adj[j][i]);
+      
+         res -= mf.getFlow();
+         System.out.printf("%.2f%n", res * 0.01);
+      }
+   }
+}
+
+
+class MaxFlow {
+	int n,s,t,oo=(int)1e9;
+	int[][] c;
+	boolean[] v;
+	MaxFlow(int nn) { 
+		n=(s=(t=nn)+1)+1;
+		c = new int[n][n];
+		v = new boolean[n];
+	}
+	void add(int u, int v, int x) {
+		c[u][v] += x;
+	}
+	int getFlow() {
+		int ret=0,flow=1;
+		while(flow != 0) {
+			Arrays.fill(v,false);
+			ret += (flow=dfs(s,oo));
+		}
+		return ret;
+	}
+	int dfs(int x, int m) {
+		if(x==t) return m;
+		v[x] = true;
+		for(int ret,i=0; i<n; i++)
+			if(!v[i] && c[x][i] != 0) 
+				if((ret = dfs(i,Math.min(m,c[x][i]))) != 0) {
+					c[i][x] += ret;
+					c[x][i] -= ret;
+					return ret;
+				}
+		return 0;
+	}
+}

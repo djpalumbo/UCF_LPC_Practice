@@ -1,0 +1,89 @@
+Positively Pentastic!
+2009 UCF Local Programming Contest
+
+Explanation of judge data:
+
+2 -1 5 7 -4
+99 -1 -1 4 0
+The first two cases are the sample input. The second case illustrates zero and multi-digit numbers.
+
+-999 999 -999 999 999
+-999 -999 999 999 999
+The next two cases exercise the limits of input values. They turn out not to be interesting.
+
+199 -199 0 100 -99
+This case requires 992 steps.
+
+1 2 3 4 5
+0 0 0 1 0
+Both of these cases are already positive.
+
+-999 -999 799 999 999
+-999 -999 599 999 999
+-999 -999 399 999 999
+-999 -999 199 999 999
+-999 -999 99 999 999
+-999 -999 59 999 999
+-999 -999 29 999 999
+-999 -999 19 999 999
+-999 -999 14 999 999
+-999 -999 11 999 999
+-999 -999 10 999 999
+For this batch, the number of steps increases as the 3rd number decreases, with 996 steps for the last one.
+
+-999 999 10 -999 999
+Similar to the last of the previous batch, but surprisingly fewer steps: only 597.
+
+326 -92 808 -328 -640
+251 -203 -381 571 323
+18 241 -467 404 -162
+862 93 -789 -202 102
+592 430 -606 -582 244
+-994 841 135 146 -58
+-507 -599 318 184 633
+384 -583 850 185 -691
+205 689 -744 -972 895
+-683 -376 55 125 902
+631 -895 494 208 -316
+951 -316 308 -55 -787
+103 -582 667 127 -289
+735 -742 672 -750 214
+Fourteen random cases with some nice variance in values.
+Random cases met the following criteria:
+a) values from -999 to 999 inclusive
+b) sum > 0
+c) at least one negative value; min < 0
+d) sum under 990; not sure if this helped or hurt
+
+-51 -515 954 -100 -103
+Random case that happens to have all but one negative number.
+
+287 241 -379 -940 907
+395 -571 740 -49 -495
+643 -467 -611 157 344
+612 -177 -440 -621 808
+360 -415 312 684 -746
+875 -937 -944 908 111
+-785 -236 525 -29 600
+-16 722 -499 -967 867
+431 -870 785 278 -542
+Nine more random cases, which are the rest of the 24 that were generated.
+
+-1 -1 999 1 1
+Another case which looks like extremes, but is really boring.
+
+99 104 114 105 115
+Last case is all positive. Other than that, it has absolutely no significance whatsoever. None. Really. Don't look for any.
+
+
+
+
+FYI, these were tried, but are all invalid due to requiring > 1000 steps:
+-999 -999 9 999 999
+499 -499 0 250 -249
+-999 -499 499 1 999
+-999 -999 999 1 999
+-999 -500 1 500 999
+-999 -999 999 1 999
+
+

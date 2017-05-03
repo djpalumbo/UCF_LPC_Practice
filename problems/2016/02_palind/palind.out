@@ -1,0 +1,59 @@
+Test case #1:
+a YES
+cac YES
+ck YES
+cab NO
+kaak YES
+ckckkcck YES
+endoftestcasenumberone NO
+
+Test case #2:
+abbbz YES
+asxz YES
+cx NO
+sxxabzxss YES
+ks NO
+endoftestcasenumbertwo NO
+
+Test case #3:
+thislinehasfiftylettersinitjusttobesurewecheckthat NO
+aabccdzdcdbab YES
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa YES
+bbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaa YES
+dddddddddddddddddddddddddccccccccccccccccccccccccc YES
+bccb YES
+bbcc NO
+caba NO
+caab NO
+abac NO
+b YES
+bb YES
+bc NO
+abba YES
+abca NO
+endoftestcasenumberthree NO
+
+Test case #4:
+adehilmpqtuxyzwvsronkjgfcb YES
+bzya YES
+abcd NO
+acdb YES
+bcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcb YES
+azza YES
+aazz NO
+endoftestcasenumberfour NO
+
+Test case #5:
+zyyzzyzy YES
+zyyzazyzy YES
+zzzabzzz NO
+yyyayyy YES
+madam YES
+mada NO
+bbbbbcccccdddddeeeeeffffffffffeeeeedddddcccccbbbbb YES
+bbbbbcccccdddddeeeeeffffzfffffeeeeedddddcccccbbbbb NO
+bbbbbcccccdddddeeeeeffffzffffeeeeedddddcccccbbbbb YES
+abba YES
+abb NO
+endoftestcasenumberfive NO
+

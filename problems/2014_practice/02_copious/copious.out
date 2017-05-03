@@ -1,0 +1,184 @@
+Word #1: co-ch
+coach
+couch
+Total number of candidate words = 2
+
+Word #2: -at
+cat
+sat
+Total number of candidate words = 2
+
+Word #3: ---
+cat
+ali
+sat
+ccc
+xxx
+Total number of candidate words = 5
+
+Word #4: ali
+ali
+Total number of candidate words = 1
+
+Word #5: a-c
+Total number of candidate words = 0
+
+Word #6: x
+x
+Total number of candidate words = 1
+
+Word #7: x-
+xx
+Total number of candidate words = 1
+
+Word #8: x--
+xxx
+Total number of candidate words = 1
+
+Word #9: xx-
+xxx
+Total number of candidate words = 1
+
+Word #10: -x
+xx
+Total number of candidate words = 1
+
+Word #11: --x
+xxx
+Total number of candidate words = 1
+
+Word #12: -xx
+xxx
+Total number of candidate words = 1
+
+Word #13: x-x
+xxx
+Total number of candidate words = 1
+
+Word #14: xxz
+Total number of candidate words = 0
+
+Word #15: zxx
+Total number of candidate words = 0
+
+Word #16: -
+a
+z
+x
+Total number of candidate words = 3
+
+Word #17: --
+at
+bb
+xx
+Total number of candidate words = 3
+
+Word #18: ---
+cat
+ali
+sat
+ccc
+xxx
+Total number of candidate words = 5
+
+Word #19: ----
+dddd
+Total number of candidate words = 1
+
+Word #20: -----
+nerds
+coach
+couch
+ninja
+eeeee
+Total number of candidate words = 5
+
+Word #21: ------
+ffffff
+Total number of candidate words = 1
+
+Word #22: -------
+ggggggg
+Total number of candidate words = 1
+
+Word #23: --------
+hhhhhhhh
+Total number of candidate words = 1
+
+Word #24: ---------
+iiiiiiiii
+Total number of candidate words = 1
+
+Word #25: ----------
+jjjjjjjjjj
+Total number of candidate words = 1
+
+Word #26: -----------
+kkkkkkkkkkk
+Total number of candidate words = 1
+
+Word #27: ------------
+llllllllllll
+Total number of candidate words = 1
+
+Word #28: -------------
+mmmmmmmmmmmmm
+Total number of candidate words = 1
+
+Word #29: --------------
+nnnnnnnnnnnnnn
+Total number of candidate words = 1
+
+Word #30: ---------------
+ooooooooooooooo
+Total number of candidate words = 1
+
+Word #31: ----------------
+pppppppppppppppp
+Total number of candidate words = 1
+
+Word #32: -----------------
+qqqqqqqqqqqqqqqqq
+Total number of candidate words = 1
+
+Word #33: ------------------
+rrrrrrrrrrrrrrrrrr
+Total number of candidate words = 1
+
+Word #34: -------------------
+sssssssssssssssssss
+Total number of candidate words = 1
+
+Word #35: --------------------
+tttttttttttttttttttt
+yyyyyyyyyyyyyyyyyyyy
+Total number of candidate words = 2
+
+Word #36: a-------------------
+Total number of candidate words = 0
+
+Word #37: z-------------------
+Total number of candidate words = 0
+
+Word #38: t-------------------
+tttttttttttttttttttt
+Total number of candidate words = 1
+
+Word #39: y-------------------
+yyyyyyyyyyyyyyyyyyyy
+Total number of candidate words = 1
+
+Word #40: -------------------a
+Total number of candidate words = 0
+
+Word #41: -------------------z
+Total number of candidate words = 0
+
+Word #42: -------------------t
+tttttttttttttttttttt
+Total number of candidate words = 1
+
+Word #43: -------------------y
+yyyyyyyyyyyyyyyyyyyy
+Total number of candidate words = 1
+

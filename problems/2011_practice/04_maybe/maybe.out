@@ -1,0 +1,108 @@
+Expression #1: A&B
+3 MAYBE result(s) possible
+
+Expression #2: A+B+C
+7 MAYBE result(s) possible
+
+Expression #3: A&!B+B&!A
+5 MAYBE result(s) possible
+
+Expression #4: !A&A
+1 MAYBE result(s) possible
+
+Expression #5: 2+A&!1
+0 MAYBE result(s) possible
+
+Expression #6: D&D
+1 MAYBE result(s) possible
+
+Expression #7: C+C
+1 MAYBE result(s) possible
+
+Expression #8: B&B&B&B&B&B&B&B&B&B&B&B&B&B&B&B
+1 MAYBE result(s) possible
+
+Expression #9: B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B
+1 MAYBE result(s) possible
+
+Expression #10: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!G
+1 MAYBE result(s) possible
+
+Expression #11: A&B&C&D&E&F&G
+127 MAYBE result(s) possible
+
+Expression #12: A+B+C+D+E+F+G
+127 MAYBE result(s) possible
+
+Expression #13: A&!B+B&!A+C&!D+D&!C+E&!F+F&!E+G&!A+A&!G
+825 MAYBE result(s) possible
+
+Expression #14: A&!B+B&!A+C&!D+D&!C+E&!F+F&!E+G&!A+!A&!G
+821 MAYBE result(s) possible
+
+Expression #15: !D&E&A&D+!B&E&E&F+!G&A&G
+343 MAYBE result(s) possible
+
+Expression #16: !D+E+A+D&!B+E+E+F&!G+A+G
+99 MAYBE result(s) possible
+
+Expression #17: A&B&C&D&E&F+A&B&C&D&E&G+A&B&C&D&F&G
+313 MAYBE result(s) possible
+
+Expression #18: !C
+1 MAYBE result(s) possible
+
+Expression #19: 0
+0 MAYBE result(s) possible
+
+Expression #20: 1
+1 MAYBE result(s) possible
+
+Expression #21: 2
+0 MAYBE result(s) possible
+
+Expression #22: !0
+0 MAYBE result(s) possible
+
+Expression #23: !1
+1 MAYBE result(s) possible
+
+Expression #24: 0&0+1&1+2&2+0&1+1&2+2&0+!1
+0 MAYBE result(s) possible
+
+Expression #25: 0&0+1&1+2&2+0&1+1&2+2&0+!1+F
+0 MAYBE result(s) possible
+
+Expression #26: 0&0+1&1+2&2+0&1+1&2+2&0+!1+F+E
+0 MAYBE result(s) possible
+
+Expression #27: 0&0+1&1+2&2+0&1+1&2+2&0+!1+F+E+D
+0 MAYBE result(s) possible
+
+Expression #28: B
+1 MAYBE result(s) possible
+
+Expression #29: !B
+1 MAYBE result(s) possible
+
+Expression #30: !!B
+1 MAYBE result(s) possible
+
+Expression #31: 2&B+!2&B
+1 MAYBE result(s) possible
+
+Expression #32: !!!!!A&C+!!!!!!!C&A
+5 MAYBE result(s) possible
+
+Expression #33: !A&B&C+A&!B&C+A&B&!C+!A&!B&C+A&!B&!C+D
+40 MAYBE result(s) possible
+
+Expression #34: !A&B&C+A&!B&C+A&B&!C+!A&!B&C+A&!B&!C+D+E
+84 MAYBE result(s) possible
+
+Expression #35: A+B&C+D&E&F+!G+!F&!E&!D+!C&!B+!A
+350 MAYBE result(s) possible
+
+Expression #36: A+!A+B&C+D&E&F+!G+!F&!E&!D+!C&!B
+350 MAYBE result(s) possible
+

@@ -1,0 +1,120 @@
+Data set #1:
+     are --- the word is in dictionary
+     reallyare --- the word is concatenation of
+          really
+          are
+     wrong --- misspelled word
+     reallynicecoaches --- the word is concatenation of
+          really
+          nice
+          coaches
+     wrongword --- misspelled word
+
+Data set #2:
+     funfunfun --- misspelled word
+     aboutali --- the word is concatenation of
+          about
+          ali
+     ali --- the word is in dictionary
+     aliali --- the word is concatenation of
+          ali
+          ali
+     isnice --- the word is in dictionary
+
+Data set #3:
+     preparationiskey --- the word is concatenation of
+          preparation
+          is
+          key
+     prep --- the word is in dictionary
+     preparation --- the word is in dictionary
+     keywilldestrooy --- misspelled word
+     preppreparation --- the word is concatenation of
+          prep
+          preparation
+     keywilldestroya --- misspelled word
+
+Data set #4:
+     abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx --- the word is concatenation of
+          ab
+          cd
+          ef
+          gh
+          ij
+          kl
+          mn
+          op
+          qr
+          st
+          uv
+          wx
+          yz
+          ab
+          cd
+          ef
+          gh
+          ij
+          kl
+          mn
+          op
+          qr
+          st
+          uv
+          wx
+     kpabjqefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv --- the word is concatenation of
+          kp
+          ab
+          jq
+          ef
+          gh
+          ij
+          kl
+          mn
+          op
+          qr
+          st
+          uv
+          wx
+          yz
+          ab
+          cd
+          ef
+          gh
+          ij
+          kl
+          mn
+          op
+          qr
+          st
+          uv
+     as --- misspelled word
+     tv --- the word is in dictionary
+
+Data set #5:
+     thisisatwentycharwrd --- the word is in dictionary
+     thisisatwentycharwrdhowmanywordsarehere --- the word is concatenation of
+          thisisatwentycharwrd
+          howmanywordsarehere
+     thisisatwentycharwrdhowmanywordsarehereidontknow --- misspelled word
+     thisisatwentycharwrdandwhywasntthattwenttencharwrd --- the word is concatenation of
+          thisisatwentycharwrd
+          andwhywasntthattwent
+          tencharwrd
+
+Data set #6:
+     shorterestlongest --- the word is concatenation of
+          shorterest
+          longest
+     shortlongest --- the word is concatenation of
+          short
+          longest
+     shorterlong --- the word is concatenation of
+          shorter
+          long
+     shortershorterest --- the word is concatenation of
+          shorter
+          shorterest
+     shorterest --- the word is in dictionary
+     shorteres --- misspelled word
+     longshore --- misspelled word
+

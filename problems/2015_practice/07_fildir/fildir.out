@@ -1,0 +1,174 @@
+File system #1:
+
+Listing for /home:
+CONTESTS
+COURSES
+junk
+temp
+
+Listing for /home/COURSES/COP4020:
+EXAM1
+exam1
+exam2
+exam3
+
+Listing for /home/CONTESTS:
+PRACTICE
+REAL
+scoring
+
+Listing for /home/COURSES/COT4810:
+There are no files/directories.
+
+Listing for /home/COURSES:
+COP4020
+COT4810
+
+File system #2:
+
+Listing for /home:
+Level1
+aaa
+bbb
+
+File system #3:
+
+Listing for /home:
+2
+B
+a
+goth
+wearBlack
+
+Listing for /home/c/c/c/c/c:
+x
+
+Listing for /home/c/c/c/c/x:
+c
+
+File system #4:
+
+Listing for /home:
+There are no files/directories.
+
+File system #5:
+
+Listing for /home/dirQQQQQQQ/dirZZZZZZZ/dirXXXXXXX/dirX00XXXX/dirX00ooXX:
+filX00oo00
+filX00oo01
+filX00oo02
+filX00oo03
+filX00oo04
+filX00oo05
+filX00oo06
+filX00oo07
+filX00oo08
+filX00oo09
+filX00oo10
+filX00oo11
+filX00oo12
+filX00oo13
+filX00oo14
+filX00oo15
+filX00oo16
+filX00oo17
+filX00oo18
+filX00oo19
+
+Listing for /home/dirQQQQQQQ/dirZZZZZZZ/dirXXXXXXX/dirX00XXXX:
+dirX00ooXX
+
+Listing for /home/dirQQQQQQQ/dirZZZZZZZ/dirXXXXXXX/dirX00XXXX:
+dirX00ooXX
+dirX00opXX
+dirX00oqXX
+dirX00orXX
+dirX00osXX
+dirX00otXX
+dirX00owXX
+dirX00oxXX
+dirX00oyXX
+dirX00ozXX
+dirX00poXX
+dirX00ppXX
+dirX00pqXX
+dirX00prXX
+dirX00psXX
+dirX00ptXX
+dirX00pwXX
+dirX00pxXX
+dirX00pyXX
+dirX00pzXX
+
+Listing for /home/dirQQQQQQQ/dirZZZZZZZ/dirXXXXXXX/dirX11XXXX/dirX11pxXX:
+filX11px00
+filX11px01
+filX11px02
+filX11px03
+filX11px04
+filX11px05
+filX11px06
+
+Listing for /home/dirQQQQQQQ:
+dirZZZZZZZ
+
+Listing for /home/dirQQQQQQQ/dirZZZZZZZ/dirXXXXXXX/dirX11XXXX/dirX11ppXX:
+filX11pp00
+filX11pp01
+filX11pp02
+filX11pp03
+filX11pp04
+filX11pp05
+filX11pp06
+filX11pp07
+filX11pp08
+filX11pp09
+filX11pp10
+filX11pp11
+filX11pp12
+filX11pp13
+filX11pp14
+filX11pp15
+filX11pp16
+filX11pp17
+filX11pp18
+filX11pp19
+
+File system #6:
+
+Listing for /home/000000088d/001700088d:
+0017aa088d
+0017bb088d
+0017cc088d
+0017dd088d
+0017ee088d
+0017ff088d
+0017gg088d
+0017hh088d
+0017ii088d
+0017jj088d
+0017kk088d
+0017mm088d
+
+Listing for /home/000000088d/001800088d:
+0018aa088d
+0018bb088d
+0018cc088d
+0018dd088d
+0018ee088d
+0018ff088d
+0018gg088d
+0018hh088d
+0018ii088d
+0018jj088d
+0018kk088d
+
+Listing for /home/190000088d/191900088d/1919ee088d:
+There are no files/directories.
+
+Listing for /home/110000088d/111100088d/1111ii088d:
+There are no files/directories.
+
+Listing for /home/000000088d/000800088d/0008cc088d:
+There are no files/directories.
+

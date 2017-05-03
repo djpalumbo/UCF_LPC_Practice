@@ -1,0 +1,30 @@
+1&2) Sample data
+
+3) Biggest circle
+4) Smallest circle
+
+5&6) Same start and end points, but swapped; segments will be shorted for one but not the other (cw vs. ccw)
+
+7) Biggest circle, going from start to middle, back to start, to end
+
+8) Biggest circle, going from start to near middle, back to start, to end (which is still shorter than the arc)
+
+9&10) Center at (-pi, -pi) radius=2, start to end is vertical. These cases are intended to make them get a negative value
+   for the angle between start and end (for one of the two cases) in order to get a negative arc length
+
+11) Same as previous, except there are 10 points inside the circle given, all of them the same exact point
+   (which is valid by the specification)
+
+12&13) Very tiny angle, cw and ccw
+
+14) start over end vetically, ten intra-circle points that lie extremely close to (0,0)
+
+15) circle has radius = pi, intra-circle segments create a path with vertical and horizonal lines
+
+16) arc makes non-right, obtuse angle; intra-circle path is long and useless
+
+17) intra-circle path goes directly to within 0.000001 of the end, then back to the start
+
+18) the arc wins by 0.002
+
+19) the intra-circle path wins by 0.002

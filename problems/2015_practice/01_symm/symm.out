@@ -1,0 +1,110 @@
+Input matrix #1:
+A
+Symmetric diagonals 1:
+A
+
+Input matrix #2:
+N N
+N N
+Symmetric diagonals 1:
+N N
+Symmetric diagonals 2:
+N
+N
+
+Input matrix #3:
+A C
+D B
+Symmetric diagonals 1:
+A B
+
+Input matrix #4:
+A D H
+F B E
+I G C
+Symmetric diagonals 1:
+A B C
+Symmetric diagonals 2:
+D E
+F G
+Symmetric diagonals 3:
+H
+I
+
+Input matrix #5:
+A E K O
+H B F L
+M I C G
+P N J D
+Symmetric diagonals 1:
+A B C D
+Symmetric diagonals 2:
+E F G
+H I J
+Symmetric diagonals 3:
+K L
+M N
+Symmetric diagonals 4:
+O
+P
+
+Input matrix #6:
+A B D F H J L N P R T V X Z B
+C A B D F H J L N P R T V X Z
+E C A B D F H J L N P R T V X
+G E C A B D F H J L N P R T V
+I G E C A B D F H J L N P R T
+K I G E C A B D F H J L N P R
+M K I G E C A B D F H J L N P
+O M K I G E C A B D F H J L N
+Q O M K I G E C A B D F H J L
+S Q O M K I G E C A B D F H J
+U S Q O M K I G E C A B D F H
+W U S Q O M K I G E C A B D F
+Y W U S Q O M K I G E C A B D
+A Y W U S Q O M K I G E C A B
+C A Y W U S Q O M K I G E C A
+Symmetric diagonals 1:
+A A A A A A A A A A A A A A A
+Symmetric diagonals 2:
+B B B B B B B B B B B B B B
+C C C C C C C C C C C C C C
+Symmetric diagonals 3:
+D D D D D D D D D D D D D
+E E E E E E E E E E E E E
+Symmetric diagonals 4:
+F F F F F F F F F F F F
+G G G G G G G G G G G G
+Symmetric diagonals 5:
+H H H H H H H H H H H
+I I I I I I I I I I I
+Symmetric diagonals 6:
+J J J J J J J J J J
+K K K K K K K K K K
+Symmetric diagonals 7:
+L L L L L L L L L
+M M M M M M M M M
+Symmetric diagonals 8:
+N N N N N N N N
+O O O O O O O O
+Symmetric diagonals 9:
+P P P P P P P
+Q Q Q Q Q Q Q
+Symmetric diagonals 10:
+R R R R R R
+S S S S S S
+Symmetric diagonals 11:
+T T T T T
+U U U U U
+Symmetric diagonals 12:
+V V V V
+W W W W
+Symmetric diagonals 13:
+X X X
+Y Y Y
+Symmetric diagonals 14:
+Z Z
+A A
+Symmetric diagonals 15:
+B
+C
