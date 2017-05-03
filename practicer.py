@@ -9,12 +9,22 @@
 ################################################################################
 from sys import platform # For OS check, if needed
 import os
+import random
+random.seed()
 
-# Need to know location of practice problems -- Assume we're in that directory
-# Randomly select a problem (choose from what's available)
+DEBUG = True
 
-os.startfile('C:/Users/Dave/Google Drive/UCF/Programming Practice/' +
-        'UCF Local Programming Contest/2011/11_blackcactus/' +
-        'blackcactus.pdf') # (This is an example)
+# Figure out where we are
+dir_path = os.path.dirname(os.path.realpath(__file__))
+os.chdir(dir_path + "\\problems")
+
+# Randomly select a problem
+for traversals in range(0,2):
+  subdirs = os.listdir()
+  randNum = random.randint(0, len(subdirs) - 1)
+  os.chdir(os.getcwd() + "\\" + subdirs[randNum])
+  if DEBUG:
+    print(os.getcwd())
+os.startfile(os.getcwd() + "\\" + subdirs[randNum][3:] + ".pdf")
 
 # Need menu for timer
