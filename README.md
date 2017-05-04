@@ -4,4 +4,5 @@ This repository contains programming problems from UCF's Local Programming Conte
 
 # practicer.py
 This script can be used to test one's programming skills. It selects a random problem from the set(s) of problems provided and begins a timer, which can be stopped by the user once the selected problem has been completed.
-Note: Later, there may be functionality built to check whether or not the code actually works as intended.
+
+Note: Later, I may implement a code-checking feature to actually determine whether or not the solution that was submitted was correct.
