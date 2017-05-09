@@ -5,14 +5,12 @@ import random
 
 random.seed()
 dir_path = os.path.dirname(os.path.realpath(__file__))
+probList = []
 
 DEBUG = True
 
 
 # Need functions/buttons:
-#   Skip
-#   Done
-#   Log of submissions (incl. each timestamp; will be available at the end)
 
 
 class Session(Frame):
@@ -21,23 +19,39 @@ class Session(Frame):
     self._problems = {}
     self._current = ""
 
-  """ Add problem to list. """
-
   """ Remove problem from list. """
 
 
 """ Randomly selects the next problem. """
 def getNextProb():
+  foundNext = False
+  traversals = 0
   global dir_path
-  os.chdir(dir_path + "\\problems")
-  for traversals in range(0,2):
-    subdirs = os.listdir()
-    randNum = random.randint(0, len(subdirs) - 1)
-    os.chdir(os.getcwd() + "\\" + subdirs[randNum])
-  os.startfile(os.getcwd() + "\\" + subdirs[randNum][3:] + ".pdf")
+  global probList # Temp global variable until implemented into Session
 
-  # Must ignore previous picks
-  # Must ignore non-numbered folders
+  while not foundNext:
+    os.chdir(dir_path + "\\problems")
+
+    # Locate random subdirectory (where there may be a programming problem)
+    while traversals < 2:
+      subdirs = os.listdir()
+      randNum = random.randint(0, len(subdirs) - 1)
+      # Ignore non-numbered directories & try to traverse
+      if subdirs[randNum][:2].isdigit():
+        try:
+          os.chdir(os.getcwd() + "\\" + subdirs[randNum])
+        except NotADirectoryError:
+          traversals -= 1
+      else:
+        traversals -= 1
+      traversals += 1
+    traversals = 0
+
+    # If problem not already chosen, do it. Otherwise, start over
+    if os.getcwd() not in probList:
+      foundNext = True
+      probList.append(os.getcwd())
+      os.startfile(os.getcwd() + "\\" + subdirs[randNum][3:] + ".pdf")
 
 
 class StopWatch(Frame):
@@ -88,8 +102,12 @@ def main():
   sw.pack(side=TOP)
 
   Button(root, text='Start', command=sw.Start).pack(side=LEFT)
-  Button(root, text='Next', command=sw.Next).pack(side=LEFT)
-  Button(root, text='Quit', command=root.quit).pack(side=RIGHT)
+  Button(root, text='Next', command=sw.Next).pack(side=LEFT) # i.e. submit?
+  #  Button(root, text='Skip', command=
+  #  Button(root, text='Done', command=
+  #  Button(root, text='Log', command=
+
+  #  Button(root, text='Quit', command=root.quit).pack(side=RIGHT)
 
   root.mainloop()
 
