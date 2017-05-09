@@ -82,13 +82,22 @@ class StopWatch(Frame):
     hseconds = int((elap - minutes*60.0 - seconds)*100)
     self.timestr.set('%02d:%02d:%02d' % (minutes, seconds, hseconds))
 
-  """ Start the stopwatch & give first problem, ignore if running. """
+  """ Start the stopwatch & give first problem; ignore if running. """
   def Start(self):
     if not self._running:
       self._start = time.time() - self._elapsedtime
       self._update()
       self._running = 1
-      getNextProb()
+      if self._elapsedtime == 0:
+        getNextProb()
+
+  def Stop(self):
+    """ Stop the stopwatch, ignore if stopped. """
+    if self._running:
+      self.after_cancel(self._timer)
+      self._elapsedtime = time.time() - self._start
+      self._setTime(self._elapsedtime)
+      self._running = 0
 
   """ Go to next problem if running. """
   def Next(self):
@@ -106,6 +115,7 @@ def main():
   #  Button(root, text='Skip', command=
   #  Button(root, text='Done', command=
   #  Button(root, text='Log', command=
+  Button(root, text='Stop', command=sw.Stop).pack(side=LEFT)
 
   #  Button(root, text='Quit', command=root.quit).pack(side=RIGHT)
 
